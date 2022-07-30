@@ -1,2 +1,2 @@
-# Banco-Digital-Java
- Criando um Banco Digital com Java e Orientação a Objetos.
+# desafio.dio.banco
+Projeto de conclusão da trilha de Java para o Santander Bootcamp Fullstack Developer
