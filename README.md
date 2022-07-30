@@ -1,2 +1,2 @@
-# desafio.dio.banco
-Projeto de conclusão da trilha de Java para o Santander Bootcamp Fullstack Developer
+
+Projeto onde construo um banco digital utilizando java e programção orientada a objetos.
